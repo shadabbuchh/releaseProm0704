@@ -75,6 +75,14 @@
     {
       "id": "Snowflake",
       "isDefault": false
+    },
+    {
+      "id": "Features",
+      "isDefault": false
+    },
+    {
+      "id": "Features2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
